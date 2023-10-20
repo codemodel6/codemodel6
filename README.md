@@ -22,7 +22,6 @@
 
 #### +Nexacro
 
-
 ## Backend
 
 <img src="https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> 
@@ -35,3 +34,10 @@
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 </div>
+
+## 자격증
+#### - 정보처리기사
+#### - SQLD
+#### - 리눅스마스터2급
+#### - 컴퓨터활용능력2급, 바리스타2급, 면허1종
+#### 
