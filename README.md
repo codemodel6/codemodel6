@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
-<img src="https://github.com/codemodel6/codemodel6/assets/110915850/2819d600-2505-400c-8104-bfbb662b2696" width="100" height="27">
+<img src="https://github.com/codemodel6/codemodel6/assets/110915850/2819d600-2505-400c-8104-bfbb662b2696" width="120" height="27">
 
 #### +Nexacro
 
